@@ -1,0 +1,13 @@
+languageCode: en-us
+title: Invasive Pedals
+baseURL: 'http://localhost:1313/'
+theme: massively
+googleanalytics: ''
+disqusShortname: invasivepedals
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - section
+languages:
+  en:
+    languageName: English
